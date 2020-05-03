@@ -1,7 +1,6 @@
 import React from 'react';
-
 import classes from './BuildControl.module.css';
-import { tsPropertySignature } from '@babel/types';
+
 
 const buildControl = (props) => (
     <div className={classes.BuildControl}>
